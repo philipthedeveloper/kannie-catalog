@@ -1,0 +1,16 @@
+[
+    {
+        "iconClass": "fi fi-sr-map-pin",
+        "info": "Ibadan, Nigeria"
+    },
+    {
+        "iconClass": "fi fi-sr-phone-call",
+        "info": "+2347058466504",
+        "linkTo": "tel:+2347058466504"
+    },
+    {
+        "iconClass": "fi fi-sr-envelope",
+        "info": "adedapomide@gmail.com",
+        "linkTo": "mailto:adedapomide@gmail.com"
+    }
+]

@@ -1,0 +1,43 @@
+import { TABS } from "@/enums";
+import { IAnalytics } from "@/interfaces";
+
+export const analytics: IAnalytics[] = [
+  {
+    label: "Contents",
+    counterStart: 0,
+    counterEnd: 9,
+    prefix: "",
+    suffix: "",
+    duration: 4,
+    decimal: ".",
+    decimals: 0,
+    seperator: ",",
+    linkType: "section",
+    link: "See details",
+    // linkUrl: "/question",
+    linkUrl: TABS.CONTENT,
+    widgetIconBg: "info-bg",
+    widgetIconClass: "fi fi-rr-followcollection",
+    widgetIconColor: "info",
+  },
+  {
+    label: "Admins",
+    counterStart: 0,
+    counterEnd: 24,
+    prefix: "",
+    // suffix: "K",
+    suffix: "",
+    duration: 4,
+    decimal: ".",
+    seperator: ",",
+    // decimals: 2,
+    decimals: 0,
+    linkType: "section",
+    link: "See details",
+    // linkUrl: "#users-sections",
+    linkUrl: TABS.CONTENT,
+    widgetIconBg: "success-bg",
+    widgetIconClass: "fi fi-rr-followcollection",
+    widgetIconColor: "success",
+  },
+];
