@@ -34,7 +34,7 @@ export const Introduction = () => {
           </p>
           <a
             className="w-auto h-auto mt-8 md:mt-0 relative animate-bounce inline-block"
-            href="#works"
+            href="#about-me"
           >
             <img src={downArrow} className="w-12 h-12 blur-[4px] absolute" />
             <img src={downArrow} className="w-12 h-12" />

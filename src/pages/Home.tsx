@@ -11,7 +11,10 @@ export const Home = () => {
       <Hero />
       <Introduction />
       <div>
-        <div className="grid grid-cols-1 gap-12 lg:gap-16 lg:grid-cols-2 w-[90%] max-w-7xl mx-auto py-20 pb-10">
+        <div
+          className="grid grid-cols-1 gap-12 lg:gap-16 lg:grid-cols-2 w-[90%] max-w-7xl mx-auto py-20 pb-10"
+          id="about-me"
+        >
           <div className="flex flex-col gap-8 row-start-2 lg:row-start-1">
             <h2 className="font-great-vibe text-3xl md:text-4xl text-blue-400 font-medium">
               About Me
