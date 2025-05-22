@@ -30,7 +30,7 @@ export const DesktopNavbar = () => {
             aria-roledescription="Logo"
             className="font-great-vibe text-3xl font-bold text-blue-400"
           >
-            Kannie
+            Kaani
           </div>
 
           {/* Nav links */}

@@ -81,7 +81,7 @@ export const Login = () => {
             Admin Login
           </h1>
           <p className="text-center text-sm text-gray-400 neue-regular mt-3">
-            Login to Kannie Admin
+            Login to Kaani Admin
           </p>
           {isLoginReqLoading && <Loader />}
           <form

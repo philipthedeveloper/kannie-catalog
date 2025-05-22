@@ -38,7 +38,7 @@ export const Logout = () => {
                 You are logged out
               </h1>
               <p className="text-center text-sm text-gray-400 neue-regular mt-3">
-                Thank you for using Kannie Portal
+                Thank you for using Kaani Portal
               </p>
               <div className="w-[90%] max-w-[500px] md:max-w-[350px] mx-auto mt-6 relative">
                 <a

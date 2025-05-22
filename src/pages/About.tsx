@@ -22,7 +22,7 @@ export const AboutMe = () => {
         {/* Image */}
         <div className="">
           <div>
-            <img src={me} alt="Kannie Image" />
+            <img src={me} alt="Kaani Image" />
           </div>
         </div>
       </div>

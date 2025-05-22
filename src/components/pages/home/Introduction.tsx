@@ -14,7 +14,7 @@ export const Introduction = () => {
             className="self-start flex flex-col gap-3 text-3xl md:text-5xl lg:text-6xl font-bold uppercase"
           >
             <span className="font-bold text-blue-600 font-great-vibe">
-              Kannie
+              Kaani
             </span>
             <span className="ml-16 font-bold text-white font-great-vibe">
               Strene
